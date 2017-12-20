@@ -1,4 +1,4 @@
-prosto spasi i sohrani (gg.oshko@yandex.by)
+prosto spasi i sohrani (gg.oshko@yandex.by) pomogiti
 <html>
   <body>
     <h1>Hello, World</h1>
